@@ -1,29 +1,24 @@
-```
-____ _ ____ _    ____    ____ _    ____ ____ ___ ____ ____ _  _ _ ____ ____ 
-|___ | [__  |    |__| __ |___ |    |___ |     |  |__/ |  | |\ | | |    [__  
-|___ | ___] |___ |  |    |___ |___ |___ |___  |  |  \ |__| | \| | |___ ___] 
- 
-```
+Eagle resources
+===============
                                                                          
-                                                                         
-# Eisla electronics
+This repository contains all resources files used by ExMachina to develop their products.
 
-This repo contains all necessary files to design and produce PCBs for the Eisla product range.
+# Folder structure
 
-## File format and folder structure
+`cam/` folder contains CAM files required te generate GERBER, drawings, stencils files.
 
-Documentation files should be in PDF. Board image files can be in PNG or PDF.
+`dru/` folder contains Design Rules files.
 
-PCB Design file are in EAGLE Standard edition (7.4) file format.
+`lib/` folder contains all the librairies used across projects.
 
-These are general rules to help maintain a consistent folder structure:
+`src/` folder contains user scripts.
 
-* All libraries are placed inside the root lib/ folder.  
+# License
 
-* One board for each project folder.  
+All files are released under Creative Commons BY-NC-SA license unless specified.
+A quick summary can be found at [](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+For the full text, see the [](LICENSE) file.
 
-* Mutiples revisions can be placed inside a subfolder. i.e. ArmazCape/Rev A1  
+# Source
 
-* BOMs, partlists, spreadsheet should placed inside a BOMs/ folder.  
-
-* Documentations files are in eagle-resources/doc or in doc/ inside a project folder.
+Original repository can be found on [GitHub](https://github.com/exmachina-dev/eagle-resources)
