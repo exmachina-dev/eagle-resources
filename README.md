@@ -11,7 +11,7 @@ This repository contains all resources files used by ExMachina to develop their 
 
 `lib/` folder contains all the librairies used across projects.
 
-`src/` folder contains user scripts.
+`scr/` folder contains user scripts.
 
 # License
 
