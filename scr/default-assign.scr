@@ -31,8 +31,8 @@ ASSIGN A+A RATSNEST;
 #ASSIGN A+H HOLE;
 ASSIGN A+S SIGNAL;
 
-Assign F1 Change size 16
-Assign F2 Change size 24
+Assign F1 Change size 16mil
+Assign F2 Change size 24mil
 Assign F3 Change ratio 10
 Assign F4 Change layer
 Assign F5 Change width
