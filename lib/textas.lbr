@@ -236,6 +236,8 @@
 <wire x1="3.048" y1="3.048" x2="-3.048" y2="3.048" width="0.1524" layer="51"/>
 <wire x1="-3.048" y1="3.048" x2="-3.048" y2="-3.048" width="0.1524" layer="51"/>
 <text x="-3.1242" y="1.8542" size="1.27" layer="51" ratio="6" rot="SR0">*</text>
+<text x="-3.81" y="6.35" size="1.778" layer="25">&gt;NAME</text>
+<text x="-3.81" y="3.81" size="1.778" layer="27">&gt;VALUE</text>
 </package>
 <package name="SQA40B-M">
 <smd name="1" x="-2.9972" y="2.25" dx="0.3048" dy="0.9144" layer="1" rot="R270"/>
