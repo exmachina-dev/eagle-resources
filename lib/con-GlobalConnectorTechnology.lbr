@@ -113,7 +113,7 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="USB3075-30-A">
+<deviceset name="USB3075-30-A" prefix="J">
 <gates>
 <gate name="J$1" symbol="MINI-USB-5" x="-2.54" y="0"/>
 </gates>
