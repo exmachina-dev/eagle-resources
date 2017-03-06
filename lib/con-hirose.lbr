@@ -157,7 +157,7 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="DF17(3.0)-20DS-0.5V(57)" prefix="J" uservalue="yes">
+<deviceset name="DF17(3.0)-20DS-0.5V(57)" prefix="J">
 <gates>
 <gate name="G$1" symbol="20_PIN" x="2.54" y="0"/>
 </gates>
@@ -191,7 +191,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="DF17(3.0)-20DP-0.5V(57)" prefix="J">
+<deviceset name="DF17(2.0)-20DP-0.5V(57)" prefix="J">
 <gates>
 <gate name="G$1" symbol="20_PIN" x="0" y="2.54"/>
 </gates>
