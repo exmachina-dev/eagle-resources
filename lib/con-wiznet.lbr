@@ -339,7 +339,7 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="RB1-125BAG1A" prefix="P">
+<deviceset name="RB1-125BAG1A" prefix="J">
 <description>Accessory RJ-45 With Transformer Connector - UDE</description>
 <gates>
 <gate name="G$1" symbol="RB1-125BAG1A" x="0" y="0"/>
