@@ -756,7 +756,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="VDD18PLL">
+<deviceset name="VDD18PLL" prefix="VDD18PLL">
 <gates>
 <gate name="G$1" symbol="VDD18PLL" x="0" y="0"/>
 </gates>
