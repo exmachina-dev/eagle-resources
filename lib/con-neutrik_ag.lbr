@@ -4085,8 +4085,8 @@ Source: www.neutrik.com/... 210_269241.pdf</description>
 <wire x1="5.08" y1="2.54" x2="5.08" y2="1.524" width="0.1524" layer="94"/>
 <wire x1="5.588" y1="-2.032" x2="0" y2="0" width="0.1524" layer="94"/>
 <pin name="N" x="-7.62" y="0" visible="pad" length="short" direction="pas" swaplevel="1"/>
-<pin name="NC" x="-7.62" y="2.54" visible="pad" length="short" direction="pas" swaplevel="1"/>
-<pin name="NO" x="-7.62" y="-2.54" visible="pad" length="short" direction="pas" swaplevel="1"/>
+<pin name="NC" x="-7.62" y="-2.54" visible="pad" length="short" direction="pas" swaplevel="1"/>
+<pin name="NO" x="-7.62" y="2.54" visible="pad" length="short" direction="pas" swaplevel="1"/>
 <text x="-5.08" y="5.08" size="1.778" layer="95">&gt;NAME</text>
 <text x="-5.08" y="-10.16" size="1.778" layer="96">&gt;VALUE</text>
 <polygon width="0.254" layer="94">
