@@ -236,7 +236,7 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="MSTBA3" prefix="X">
+<deviceset name="MSTBA3" prefix="J">
 <description>&lt;b&gt;PHOENIX&lt;/b&gt;</description>
 <gates>
 <gate name="-1" symbol="SK" x="0" y="5.08" addlevel="always"/>
