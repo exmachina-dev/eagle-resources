@@ -162,8 +162,8 @@
 <wire x1="-1.905" y1="-1.7145" x2="1.905" y2="-1.7145" width="0.127" layer="21"/>
 <wire x1="1.905" y1="-1.7145" x2="1.905" y2="1.7145" width="0.127" layer="21"/>
 <wire x1="1.905" y1="1.7145" x2="-1.905" y2="1.7145" width="0.127" layer="21"/>
-<text x="3.175" y="-1.905" size="0.8128" layer="25" rot="R90">&gt;NAME</text>
-<text x="4.445" y="-1.905" size="0.8128" layer="27" rot="R90">&gt;VALUE</text>
+<text x="3.175" y="-1.905" size="0.6096" layer="25" rot="R90">&gt;NAME</text>
+<text x="3.81" y="-1.905" size="0.4064" layer="27" rot="R90">&gt;VALUE</text>
 <circle x="-2.54" y="-2.54" radius="0.254" width="0.6096" layer="21"/>
 </package>
 <package name="FTSH-105-01-L-DV-NOPASTE">
@@ -181,8 +181,8 @@
 <wire x1="-3.175" y1="-1.7145" x2="3.175" y2="-1.7145" width="0.127" layer="21"/>
 <wire x1="3.175" y1="-1.7145" x2="3.175" y2="1.7145" width="0.127" layer="21"/>
 <wire x1="3.175" y1="1.7145" x2="-3.175" y2="1.7145" width="0.127" layer="21"/>
-<text x="4.445" y="-1.905" size="0.8128" layer="25" rot="R90">&gt;NAME</text>
-<text x="5.715" y="-1.905" size="0.8128" layer="27" rot="R90">&gt;VALUE</text>
+<text x="4.445" y="-1.905" size="0.6096" layer="25" rot="R90">&gt;NAME</text>
+<text x="5.08" y="-1.905" size="0.4064" layer="27" rot="R90">&gt;VALUE</text>
 <circle x="-3.81" y="-2.54" radius="0.254" width="0.6096" layer="21"/>
 </package>
 </packages>
