@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
@@ -135,7 +135,6 @@
 <vertex x="-2.0595" y="3.8608"/>
 <vertex x="-2.0595" y="3.6068"/>
 </polygon>
-<text x="-4.572" y="1.8542" size="1.27" layer="21" ratio="6" rot="SR0">*</text>
 <polygon width="0.0254" layer="31">
 <vertex x="-2.05" y="2.05"/>
 <vertex x="-2.05" y="0.816665625"/>
@@ -235,9 +234,9 @@
 <wire x1="3.048" y1="-3.048" x2="3.048" y2="3.048" width="0.1524" layer="51"/>
 <wire x1="3.048" y1="3.048" x2="-3.048" y2="3.048" width="0.1524" layer="51"/>
 <wire x1="-3.048" y1="3.048" x2="-3.048" y2="-3.048" width="0.1524" layer="51"/>
-<text x="-3.1242" y="1.8542" size="1.27" layer="51" ratio="6" rot="SR0">*</text>
 <text x="-1.905" y="4.445" size="0.6096" layer="25">&gt;NAME</text>
 <text x="-1.905" y="3.81" size="0.4064" layer="27">&gt;VALUE</text>
+<circle x="-4.445" y="2.54" radius="0.2032" width="0.4064" layer="21"/>
 </package>
 <package name="SQA40B-M">
 <smd name="1" x="-2.9972" y="2.25" dx="0.3048" dy="0.9144" layer="1" rot="R270"/>
