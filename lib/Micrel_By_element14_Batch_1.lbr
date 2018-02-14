@@ -5931,6 +5931,7 @@ at 30/07/2012 11:08:17</description>
 </devices>
 </deviceset>
 <deviceset name="KSZ8995MA" prefix="U">
+<description>5 Port 10/100 Switch with PHY</description>
 <gates>
 <gate name="A" symbol="KSZ8995MA_A" x="0" y="0"/>
 <gate name="B" symbol="KSZ8995MA_B" x="0" y="0"/>
@@ -6068,11 +6069,7 @@ at 30/07/2012 11:08:17</description>
 <connect gate="B" pin="X2" pad="122"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="COPYRIGHT" value="Copyright (C) 2015 Accelerated Designs. All rights reserved" constant="no"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="ksz8995ma" constant="no"/>
-<attribute name="VENDOR" value="MICREL" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 </devices>
