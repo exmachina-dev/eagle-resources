@@ -3746,8 +3746,8 @@ Source: www.neutrik.com/... 210_291701.pdf</description>
 <pad name="7" x="3.175" y="2.1082" drill="0.8128"/>
 <pad name="8" x="4.445" y="4.6482" drill="0.8128"/>
 <pad name="G" x="-6.604" y="-10.541" drill="1.1938"/>
-<text x="-8.89" y="-15.875" size="1.27" layer="25">&gt;NAME</text>
-<text x="1.27" y="-15.875" size="1.27" layer="27">&gt;VALUE</text>
+<text x="-3.81" y="13.335" size="0.6096" layer="25">&gt;NAME</text>
+<text x="-3.81" y="12.065" size="0.4064" layer="27">&gt;VALUE</text>
 <hole x="-8.425" y="0" drill="1.7"/>
 <hole x="8.425" y="0" drill="1.7"/>
 <hole x="5.8" y="11.5" drill="1.7"/>
