@@ -14,6 +14,7 @@ Section=Sec_9
 [Sec_1]
 Name[de]="Bestückungsseite"
 Name[en]="Copper - Top side"
+Name[fr]="Copper - Top side"
 Prompt=""
 Device="GERBER_RS274X"
 Wheel=".whl"
@@ -33,6 +34,7 @@ Colors=" 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 6 6 4 8 8 8 8 8 8 8 8 8 8 8 8 8 4 4 1 1
 [Sec_2]
 Name[de]="Lötseite"
 Name[en]="Copper - Bottom side"
+Name[fr]="Copper - Bottom side"
 Prompt=""
 Device="GERBER_RS274X"
 Wheel=".whl"
@@ -52,6 +54,7 @@ Colors=" 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 6 6 4 8 8 8 8 8 8 8 8 8 8 8 8 8 4 4 1 1
 [Sec_3]
 Name[de]="Bestückungsdruck oben"
 Name[en]="Silkscreen - Top side"
+Name[fr]="Silkscreen - Top side"
 Prompt=""
 Device="GERBER_RS274X"
 Wheel=".whl"
@@ -71,6 +74,7 @@ Colors=" 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 6 6 4 8 8 8 8 8 8 8 8 8 8 8 8 8 4 4 1 1
 [Sec_4]
 Name[de]="Bestückungsdruck unten"
 Name[en]="Silkscreen - Bottom side"
+Name[fr]="Silkscreen - Bottom side"
 Prompt=""
 Device="GERBER_RS274X"
 Wheel=".whl"
@@ -90,6 +94,7 @@ Colors=" 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 6 6 4 8 8 8 8 8 8 8 8 8 8 8 8 8 4 4 1 1
 [Sec_5]
 Name[de]="Lötstopmaske Bestückungsseite"
 Name[en]="Solder stop - Top side"
+Name[fr]="Solder stop - Top side"
 Prompt=""
 Device="GERBER_RS274X"
 Wheel=".whl"
@@ -109,6 +114,7 @@ Colors=" 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 6 6 4 8 8 8 8 8 8 8 8 8 8 8 8 8 4 4 1 1
 [Sec_6]
 Name[de]="Lötstopmaske Lötseite"
 Name[en]="Solder stop - Bottom side"
+Name[fr]="Solder stop - Bottom side"
 Prompt=""
 Device="GERBER_RS274X"
 Wheel=".whl"
@@ -128,6 +134,7 @@ Colors=" 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 6 6 4 8 8 8 8 8 8 8 8 8 8 8 8 8 4 4 1 1
 [Sec_7]
 Name[de]="Lotpastenmaske oben"
 Name[en]="Cream frame - Top side"
+Name[fr]="Cream frame - Top side"
 Prompt=""
 Device="GERBER_RS274X"
 Wheel=".whl"
@@ -147,6 +154,7 @@ Colors=" 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 6 6 4 8 8 8 8 8 8 8 8 8 8 8 8 8 4 4 1 1
 [Sec_8]
 Name[de]="Lotpastenmaske unten"
 Name[en]="Cream frame - Bottom side"
+Name[fr]="Cream frame - Bottom side"
 Prompt=""
 Device="GERBER_RS274X"
 Wheel=".whl"
@@ -166,6 +174,7 @@ Colors=" 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 6 6 4 8 8 8 8 8 8 8 8 8 8 8 8 8 4 4 1 1
 [Sec_9]
 Name[de]="Lotpastenmaske unten"
 Name[en]="Drill"
+Name[fr]="Drill"
 Prompt=""
 Device="EXCELLON"
 Wheel=".whl"
