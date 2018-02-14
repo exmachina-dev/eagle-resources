@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
@@ -581,9 +581,6 @@
 <technology name="">
 <attribute name="MPN" value="AT24C02C-SSHM-B" constant="no"/>
 <attribute name="OC_FARNELL" value="1971995 " constant="no"/>
-<attribute name="OC_NEWARK" value="68T4066" constant="no"/>
-<attribute name="PACKAGE" value="8SOIC" constant="no"/>
-<attribute name="SUPPLIER" value="ATMEL" constant="no"/>
 </technology>
 </technologies>
 </device>
