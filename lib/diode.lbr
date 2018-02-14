@@ -897,16 +897,7 @@ Source: http://www.onsemi.com/pub_link/Collateral/MBRA340T3-D.PDF</description>
 <connect gate="A" pin="C" pad="1"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="COPYRIGHT" value="Copyright (C) 2015 Accelerated Designs. All rights reserved" constant="no"/>
-<attribute name="FAMILY" value="TVS" constant="no"/>
-<attribute name="MANUFACTURER_NAME" value="Vishay" constant="no"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="SMAJ33A-E3/61" constant="no"/>
-<attribute name="RSPARTNUMBER" value="7103462" constant="no"/>
-<attribute name="SECTION" value="Discretes" constant="no"/>
-<attribute name="SUPERSECTION" value="Semiconductors" constant="no"/>
-<attribute name="VENDOR" value="Vishay" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 </devices>
